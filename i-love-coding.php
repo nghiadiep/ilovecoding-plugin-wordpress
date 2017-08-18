@@ -8,7 +8,7 @@
    Author URI: http://nghia.me
    License: GPL2
    */
-
+   //abc
    // check if class named I_Love_Coding doesn't exists
    if( !class_exists( 'I_Love_Coding' ) )
    {
